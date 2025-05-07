@@ -1,6 +1,6 @@
 # 📘 Exercícios ESP32 - Wokwi / Arduino IDE  
 Este repositório contém uma coleção de **10 exercícios básicos e intermediários em C/C++ para ESP32**, desenvolvidos utilizando o simulador **Wokwi** e a **Arduino IDE**.  
-O objetivo é praticar entrada/saída digital, leitura analógica, controle via serial e integração com periféricos como LCD e Wi-Fi.
+O objetivo é praticar entrada/saída digital, leitura analógica, controle via serial e integração com periféricos como LCD e Wi-Fi
 
 ## 🧠 Índice
 
